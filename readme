@@ -1,0 +1,5 @@
+
+Run the following to create new user in docker environment
+```bash
+docker compose run --rm medusa npx medusa user -e admin@example.com -p supersecret
+```
