@@ -19,7 +19,7 @@ module.exports = defineConfig({
   },
   modules: [
     {
-      resolve: "@mdockedusajs/medusa/payment",
+      resolve: "@medusajs/medusa/payment",
       options: {
         providers: [
           {
